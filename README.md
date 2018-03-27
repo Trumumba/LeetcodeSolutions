@@ -4,4 +4,6 @@ In this repository you can find my solutions for different tasks from the Leetco
 
 1. **First Missing Positive** (folder "hard" - FirstMissingPositive.java)
 
-1. **Merge Sort** (folder "sorts" - MergeSort.java)
+2. **Merge Sort** (folder "sorts" - MergeSort.java)
+
+3. **Quick Sort** (folder "sorts" - QuickSort.java)
