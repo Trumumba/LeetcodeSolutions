@@ -7,11 +7,7 @@ public class MergeSort implements Sorter {
 
     @Override
     public void sort(int[] array) {
-        if (array == null) {
-            throw new IllegalStateException("Input data cannot be null");
-        }
-
-        if (array.length < 2) {
+        if (array == null || array.length < 2) {
             return;
         }
 
